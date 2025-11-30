@@ -30,7 +30,7 @@ const TEAM_MEMBERS: TeamMember[] = [
     id: 2,
     name: "Shivam Lodhi",
     role: "UX/UI Designer",
-    image: "/Shivam.jpeg",
+    image: "/shivam.jpeg",
     social: { twitter: "#", linkedin: "#" },
   },
   {
